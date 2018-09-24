@@ -1,0 +1,22 @@
+* {
+	padding: 20px;
+}
+
+
+body {
+    min-width: 500px;
+    background-image: url("img/img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150% auto;
+	font-family: Calibri;
+	color: snow;
+	/*text-align: center;*/
+}
+
+h1 {
+	color: blue;
+	font-size: 96px;
+	text-align: center;
+}
+
